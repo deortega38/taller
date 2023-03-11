@@ -43,4 +43,17 @@
 
 /*FIN*/
 
-
+/*CONTENIDO*/
+.box1 {
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 6%;
+    margin-left: 120px;
+    margin-right: 120px;
+    align-content: center;
+    text-align: center;
+    height: 21rem !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
