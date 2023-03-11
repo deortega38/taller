@@ -1,0 +1,46 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    text-align: center;
+}
+
+/*HEADER Y FOOTER*/
+.hd1 {
+    background-color: red;
+    padding-top: 5px;
+    padding-bottom: 0.5%;
+    border: solid 1px black;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+
+.titulo1 {
+    color: white;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    text-align: center;
+    font-size: 30pt;
+}
+
+.foot1 {
+    border: solid 1px black;
+    background-color: red;
+    padding: 20px;
+    position: -webkit-sticky;
+    position: sticky;
+    bottom: 0;
+}
+
+.autores {
+    color: white;
+    font-size: 30pt;
+}
+
+/*FIN*/
+
+
