@@ -104,3 +104,15 @@
     padding-right: 35px;
     
 }
+
+.box3 {
+    float: left;
+    height: 100%;
+    width: 25%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-right: 35px;
+    padding-right: 35px;
+
+}
