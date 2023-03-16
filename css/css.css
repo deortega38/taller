@@ -104,3 +104,17 @@
     padding-right: 35px;
     
 }
+
+#titulocontenido {
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18pt;
+    padding-top: 50px;
+}
+
+#textocontenido {
+    text-align: left;
+    font-size: 11pt;
+    
+}
