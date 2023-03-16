@@ -57,3 +57,16 @@
     justify-content: center;
     align-items: center;
 }
+/*page02*/
+.img2 {
+    width: 100%;
+}
+
+.box2 {
+    float: left;
+    height: 100%;
+    width: 75%;
+    padding-left: 35px;
+    padding-right: 35px;
+    
+}
